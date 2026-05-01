@@ -1,0 +1,38 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+[Dd]ebug/
+x64/
+x86/
+
+# Visual Studio cache / temp
+.vs/
+*.VC.db
+*.VC.opendb
+*.log
+*.tlog
+
+# User-specific files
+*.user
+*.suo
+
+# IntelliSense
+*.ipch
+*.pch
+
+# Compiled objects
+*.obj
+*.o
+*.lo
+
+# Executables / libraries
+*.exe
+*.dll
+*.lib
+*.exp
+
+# Misc
+*.tmp
+*.cache
+*.pdb
