@@ -1,3 +1,6 @@
+# Download release build
+[Download link](https://github.com/remornullptr/UDK-x64-patch/releases/latest)
+
 # UDK-x64-patch DLLBind Fix by Remor
 UDK / Unreal Engine 3 x64 fix for broken DLLBind: strings and out parameters not working or crashing. Resolves issues with incorrect pointer passing in 64-bit builds, so external DLL calls behave correctly. Useful if your DLL functions return garbage or fail.
 
